@@ -1,0 +1,20 @@
+# Directories
+Packages/**
+types
+lints
+build
+serve
+node_modules
+stage-src
+
+# Files
+sourcemap.json
+darklua-sourcemap.json
+wally.lock
+keys.txt
+
+# File types
+*.lock
+*.gitconfig
+*.rbxlx
+*.rbxl

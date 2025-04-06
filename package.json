@@ -1,0 +1,32 @@
+{
+	"name": "@nightcycle/bloxidize",
+	"version": "1.0.2",
+	"description": "a package",
+	"license": "Apache-2.0",
+	"author": "nightcycle <coyer@nightcycle.us>",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nightcycle/bloxidize.git"
+	},
+	"main": "src/init.luau",
+	"scripts": {
+		"prepare": "npmluau"
+	},
+	"dependencies": {
+		"@nightcycle/option": "^0",
+		"@nightcycle/result": "^0",
+		"@nightcycle/future": "^0",
+		"@nightcycle/hash-map": "^0",
+		"@nightcycle/vec": "^0",
+		"@nightcycle/vec-deque": "^0",
+		"@nightcycle/error": "^0",
+		"@nightcycle/reqwest": "^0",
+		"@nightcycle/serde-json": "^0"
+	},
+	"devDependencies": {
+		"npmluau": "^0.1.1"
+	},
+	"keywords": [
+		"luau"
+	]
+}

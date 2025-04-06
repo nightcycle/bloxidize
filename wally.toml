@@ -1,0 +1,19 @@
+[package]
+name = "nightcycle/package"
+description = "A package!"
+version = "0.1.0"
+authors = ["CJ Oyer <coyer@nightcycle.us>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]
+option = "nightcycle/option@^0"
+result = "nightcycle/result@^0"
+future = "nightcycle/future@^0"
+error = "nightcycle/error@^0"
+vec = "nightcycle/vec@^0"
+vec-deque = "nightcycle/vec-deque@^0"
+hash-map = "nightcycle/hash-map@^0"
+reqwest = "nightcycle/reqwest@^0"
+serde-json = "nightcycle/serde-json@^0"

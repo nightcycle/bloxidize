@@ -1,0 +1,18 @@
+{
+	"rules": [
+		{
+			"rule": "convert_require",
+			"current": {
+				"name": "path",
+				"sources": {
+					"@wally": "./Packages"
+				}
+			},
+			"target": {
+				"name": "roblox",
+				"rojo_sourcemap": "./darklua-sourcemap.json",
+				"indexing_style": "wait_for_child"
+			}
+		}
+	]
+}

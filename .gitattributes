@@ -1,0 +1,9 @@
+text eol=lf
+*.luau text eol=lf
+**/*.luau text eol=lf
+*.lua text eol=lf
+**/*.lua text eol=lf
+*.rbxmx text eol=lf
+**/*.rbxmx text eol=lf
+*.sh text eol=lf
+**/*.sh text eol=lf
