@@ -4,7 +4,7 @@ A set of roblox / lune luau compatible rust inspired packages, with the goal of 
 
 ## library
 
-All of the following are published on Wally and NPM.
+All of the following are published on Wally and NPM. It is recommended you download them individually for a better experience, but if you wish to just try out all of them this repository provides an interface that allows access to all of them published on Wally and NPM.
 
 ### option
 
