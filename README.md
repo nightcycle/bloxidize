@@ -6,41 +6,41 @@ A set of roblox / lune luau compatible rust inspired packages, with the goal of 
 
 All of the following are published on Wally and NPM. It is recommended you download them individually for a better experience, but if you wish to just try out all of them this repository provides an interface that allows access to all of them published on Wally and NPM.
 
-### option
+### [option](https://github.com/nightcycle/option)
 
-The [Option](https://github.com/nightcycle/option) class is a safer way to handle null values.
+This class is a safer way to handle null values.
 
-### result
+### [result](https://github.com/nightcycle/result)
 
-The [Result](https://github.com/nightcycle/result) class is a safer way to handle errors.
+This class is a safer way to handle errors.
 
-### future
+### [future](https://github.com/nightcycle/future)
 
-The [Future](https://github.com/nightcycle/future) class is a handy way to handle async processes.
+This class is a handy way to handle async processes.
 
-### error
+### [error](https://github.com/nightcycle/error)
 
-The [Error](https://github.com/nightcycle/error) class is a handy way to bundle up error context to allow for better handling in code + easier debugging.
+This class is a handy way to bundle up error context to allow for better handling in code + easier debugging.
 
-### vec
+### [vec](https://github.com/nightcycle/vec)
 
-The [Vec](https://github.com/nightcycle/vec) class is a safer way to work with lists / arrays.
+This class is a safer way to work with lists / arrays.
 
-### hash-map
+### [hash-map](https://github.com/nightcycle/hash-map)
 
-The [HashMap](https://github.com/nightcycle/hash-map) class is a safer way to work with dictionaries.
+This class is a safer way to work with dictionaries.
 
-### vec-deque
+### [vec-deque](https://github.com/nightcycle/vec-deque)
 
-The [VecDeque](https://github.com/nightcycle/vec-deque) class is a safer way to work with queues.
+This class is a safer way to work with queues.
 
-### serde-json
+### [serde-json](https://github.com/nightcycle/serde-json)
 
-The [SerdeJson](https://github.com/nightcycle/serde-json) library is a safer way to work with customized json serialization / deserialization into custom classes.
+This library is a safer way to work with customized json serialization / deserialization into custom classes.
 
-### reqwest (pre-release)
+### [reqwest (pre-release)](https://github.com/nightcycle/reqwest)
 
-The [Reqwest](https://github.com/nightcycle/reqwest) library is a safer way to work with http requests.
+This library is a safer way to work with http requests.
 
 ## contributing
 
