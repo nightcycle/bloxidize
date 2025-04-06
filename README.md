@@ -34,13 +34,13 @@ The [HashMap](https://github.com/nightcycle/hash-map) class is a safer way to wo
 
 The [VecDeque](https://github.com/nightcycle/vec-deque) class is a safer way to work with queues.
 
-### reqwest (pre-release)
-
-The [Reqwest](https://github.com/nightcycle/reqwest) library is a safer way to work with http requests.
-
 ### serde-json
 
 The [SerdeJson](https://github.com/nightcycle/serde-json) library is a safer way to work with customized json serialization / deserialization into custom classes.
+
+### reqwest (pre-release)
+
+The [Reqwest](https://github.com/nightcycle/reqwest) library is a safer way to work with http requests.
 
 ## contributing
 
